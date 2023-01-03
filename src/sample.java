@@ -7,4 +7,5 @@ class Subtraction{
 	System.out.println("The result is" + c);
 	System.out.println(a+b);
 	System.out.println(a-b);
+	System.out.println(a/b);
 }}
