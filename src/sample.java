@@ -8,4 +8,6 @@ class Subtraction{
 	System.out.println(a+b);
 	System.out.println(a-b);
 	System.out.println(a/b);
+	System.out.println(a%b);
+	System.out.println("The end of the line");
 }}
